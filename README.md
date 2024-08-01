@@ -1,2 +1,2 @@
-# varshini-G
+# varshini
 It is a test project
